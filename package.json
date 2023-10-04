@@ -1,0 +1,26 @@
+{
+  "name": "shemsedinov-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoex/shemsedinov-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autoex/shemsedinov-project/issues"
+  },
+  "homepage": "https://github.com/autoex/shemsedinov-project#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  },
+  "dependencies": {
+    "@metarhia/common": "^2.2.2",
+    "metarhia-common": "^0.0.38"
+  }
+}
